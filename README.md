@@ -2,6 +2,10 @@
 
 Welcome!
 
+## Project deployed at:
+
+https://adamfanslau.github.io/my-first-website/
+
 ## Technologies used:
 
 html5 / css3
